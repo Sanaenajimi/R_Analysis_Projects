@@ -5,8 +5,11 @@ This repository showcases my projects using R for data analysis, statistical mod
 🔹 What You'll Find Here:
 
 ✔️ Exploratory Data Analysis (EDA) – Cleaning, transforming, and visualizing data
+
 ✔️ Statistical Analysis – Hypothesis testing, regression models, and distribution
+
 ✔️ Data Visualization – Creating insightful plots with ggplot2 and other R packages
+
 ✔️ Predictive Modeling – Implementing machine learning techniques in R
 
 Each project includes a well-documented workflow, code, and key takeaways.
